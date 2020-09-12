@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LabPrac4_Group7</string>
+    <string name="app_name">List of 3CSB Professors</string>
 
     <string-array name="names">
         <item>Jonathan Cabero</item>
