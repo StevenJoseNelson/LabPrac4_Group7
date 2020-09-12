@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">LabPrac4_Group7</string>
+
+    <string-array name="names">
+        <item>Jonathan Cabero</item>
+        <item>Perla Cosme</item>
+        <item>Cecil Jose Delfinado</item>
+        <item>Allan Joseph Maglalang</item>
+        <item>Alex Santos</item>
+        <item>Janette Sideno</item>
+    </string-array>
+
+    <string-array name="classCode">
+        <item>CS 26110</item>
+        <item>CS 26111</item>
+        <item>CS-ELEC2A</item>
+        <item>Ethics</item>
+        <item>ICS26011</item>
+        <item>ICS26010</item>
+    </string-array>
+
+    <string-array name="classDesc">
+        <item>Numerical Methods for Computing Sciences</item>
+        <item>Programming Languages</item>
+        <item>Advanced Intelligent Systems</item>
+        <item>Ethics</item>
+        <item>Applications Development and Engineering Technologies 3</item>
+        <item>Software Engineering</item>
+    </string-array>
 </resources>

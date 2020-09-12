@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="images">
+        <item>@drawable/cabero</item>
+        <item>@drawable/cosme</item>
+        <item>@drawable/delfinado</item>
+        <item>@drawable/maglalang</item>
+        <item>@drawable/santos</item>
+        <item>@drawable/sideno</item>
+    </integer-array>
+</resources>
